@@ -1,4 +1,5 @@
 # Homework-assignment-1
+//CLASSES RESPONSISBILITES
 - Bernard Widjaja (Resource, StorageArea)
 - Meghana Hemesh Kumar (LogManager, Process)
 - Rajdeep Shaw (StorageSystem, Battery, ChargingStation)
